@@ -1,7 +1,6 @@
-package easy.`1768`
+package easy
 
 import kotlin.math.max
-import kotlin.math.min
 
 class ` Merge Strings Alternately` {
 }

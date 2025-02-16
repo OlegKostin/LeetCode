@@ -1,4 +1,4 @@
-package easy.`344`
+package easy
 
 fun reverseString(s: CharArray): Unit {
     var left = 0

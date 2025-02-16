@@ -1,4 +1,4 @@
-package easy.`9`
+package easy
 
 fun isPalindrome(x: Int): Boolean {
     val temp =  x.toString()
