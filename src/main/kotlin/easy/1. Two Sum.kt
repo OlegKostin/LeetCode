@@ -6,7 +6,7 @@ package easy
 //You may assume that each input would have exactly one solution, and you may not use the same element twice.
 //
 //You can return the answer in any order.
-
+//two pointer
 
 fun twoSum(nums: IntArray, target: Int): IntArray {
     val map = mutableMapOf<Int, Int>()
