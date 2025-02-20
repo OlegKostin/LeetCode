@@ -19,5 +19,5 @@ fun minSubArrayLen(target: Int, nums: IntArray): Int {
 }
 
 fun main() {
-    println(minSubArrayLen(7, intArrayOf(2, 3, 1, 2, 4, 3)))
+
 }
